@@ -1,0 +1,9 @@
+{
+  "schema": "transit-witness/v1",
+  "legs": [
+    ["T1", "Library", "Central", 1380, 1410],
+    ["T2", "Central", "Airport", 1413, 1450],
+    ["T3", "Central", "Airport", 1420, 1460],
+    ["T4", "Library", "Airport", 1400, 1480]
+  ]
+}
